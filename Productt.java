@@ -3,7 +3,7 @@ class Product
 {
   int pcode,price;
   String pname;
-   Product(int code,String name,int pr)
+   Product(int code,String name,int pr) 
    
   {
    
