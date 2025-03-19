@@ -2,7 +2,7 @@ import java.util.Scanner;
 class Cpu
 {
     int price;
-class Processor
+class Processor 
 {
     String no_of_cores,manufacturer;
     void display(){
