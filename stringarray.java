@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 class stringarray
 {
-void userdefine(String str[],int length)
+void userdefine(String str[],int length) 
 {
 int i,j;
 String temp;
